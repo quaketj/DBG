@@ -1,0 +1,5 @@
+Note:
+
+1. This is a debug version and do not do full test, can not be sure each feature can run correctly.
+1. wmem.ko is a driver for memory test. Please compile and load it first in mem_mmap folder.
+
