@@ -133,7 +133,7 @@ static void __exit wmem_cleanup_module (void) {
 module_init(wmem_init_module);
 module_exit(wmem_cleanup_module);
 
-MODULE_AUTHOR("QUAKE WANG");
+MODULE_AUTHOR("Kelvin Cao");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Memory mapping helper module.");
 
